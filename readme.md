@@ -22,3 +22,7 @@ Este es mi top 10 de artistas mas escuchados del ultimo mes en spotify:
 10. Bruno Mars
 
 Como veran escucho bastante musica en ingles, aunque tambien esucho bandas de aca, recomiendo mucho NAFTA y ahora estoy bastante enganchado con El Mato a un Policia Motorizado.
+
+### Expectativas Profesionales
+
+Me gusta la programacion y me interesaria tener un trabajo como desarrollador, aunque no voy a negar que me preocupa el avance enorme que hizo la IA en los ultimos tiempos en esta area. Me interesa mas el backend, el front me aburre mucho jaja.
